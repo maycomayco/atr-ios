@@ -14,6 +14,8 @@
 - (void)ejemplo2;
 - (void)ejemplo3;
 
+- (void) nuevoMethod;
+
 @end
 
 @implementation Ejemplo
